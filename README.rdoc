@@ -5,8 +5,8 @@ Author: Steve Buckley
 This site is the result of following a demo to see how use of Zurb Foundation's 'foundation-rails' gem
 works as a front-end framework with Rails.
 
-No collaberation on this project.
+No collaboration on this project.
 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Questions:  
+1)why does the stylesheet layouts.css.scss keep changing to layouts.css.scss.css ???
+2) how does this stylesheet with label.right connect to class: "right inline"line in small-3 columns class?
